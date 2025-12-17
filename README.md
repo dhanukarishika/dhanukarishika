@@ -1,6 +1,6 @@
 <!-- HERO TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&pause=900&color=7F5AF0&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+Rishika+Dhanuka;Software+Developer+%7C+ML+Engineer+%7C+Web+Developer;I+build+clean+and+scalable+software." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&pause=900&color=7F5AF0&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+Rishika+Dhanuka; Software+Developer+%7C+ML+Engineer+%7C+Web+Developer ;I+build+clean+and+scalable+software." />
 </p>
 
 <!-- BANNER -->
