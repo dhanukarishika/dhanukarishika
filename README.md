@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/dhanukarishika">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/dhanukarishika](https://leetcode.com/u/dhanukarishika_/">
+  <a href="https://leetcode.com/u/dhanukarishika_/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=dhanukarishika&style=for-the-badge&color=7F5AF0" />
