@@ -28,45 +28,53 @@
 I’m a Computer Science and Engineering student at SRMIST with a strong foundation in software development, machine learning, and full-stack engineering. I enjoy building clean, scalable systems and solving real-world problems through technology. My experience spans ML model development, cloud computing (AWS & OCI), backend engineering, and GUI-based software development. I value well-structured code, clarity in design, and continuous growth.
 
 ---
+## 📊 GitHub Analytics
 
-## 🛠 Tech Arsenal  
 <p align="center">
-
-<!-- LANGUAGES -->
-<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="55" />
-<img src="https://img.icons8.com/color/96/000000/python.png" width="55" />
-<img src="https://img.icons8.com/color/96/000000/c-programming.png" width="55" />
-<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="55" />
-<img src="https://img.icons8.com/fluency/96/000000/database.png" width="55" />
-
-<br/>
-
-<!-- WEB -->
-<img src="https://img.icons8.com/color/96/000000/html-5.png" width="55" />
-<img src="https://img.icons8.com/color/96/000000/css3.png" width="55" />
-<img src="https://img.icons8.com/color/96/000000/javascript.png" width="55" />
-<img src="https://img.icons8.com/ultraviolet/96/000000/react.png" width="55" />
-<img src="https://img.icons8.com/color/96/000000/nodejs.png" width="55"/>
-
-<br/>
-
-<!-- ML / AI -->
-<img src="https://img.icons8.com/color/96/000000/tensorflow.png" width="55" />
-<img src="https://img.icons8.com/color/96/000000/opencv.png" width="55" />
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/96/000000/external-ml-machine-learning-soft-fill-soft-fill-juicy-fish.png" width="55" />
-<img src="https://img.icons8.com/color/96/000000/jupyter.png" width="55" />
-
-<br/>
-
-<!-- TOOLS -->
-<img src="https://img.icons8.com/color/96/000000/docker.png" width="55" />
-<img src="https://img.icons8.com/ios-glyphs/90/000000/github.png" width="55"/>
-<img src="https://img.icons8.com/color/96/000000/git.png" width="55"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanukarishika&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukarishika&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
+## 🧠 Coding Practice
 
+**Focus Areas:**  
+Data Structures • Algorithms • Dynamic Programming • Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/dhanukarishika_/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanukarishika&theme=react-dark&hide_border=true"/>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/dhanukarishika/dhanukarishika/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🛠 Tech Arsenal  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,tensorflow,docker,git,github,mysql" />
+</p>
+
+---
+
+## 💡 Random Developer Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
 
 <!-- FOOTER -->
 <p align="center">
