@@ -1,6 +1,6 @@
 <!-- HERO TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=900&color=7F5AF0&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+Rishika+Dhanuka;Software+Developer+%7C+ML+Engineer+%7C+Web+Developer;I+build+clean+and+scalable+software." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&pause=900&color=7F5AF0&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+Rishika+Dhanuka;Software+Developer+%7C+ML+Engineer+%7C+Web+Developer;I+build+clean+and+scalable+software." />
 </p>
 
 <!-- BANNER -->
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/dhanukarishika">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/dhanukarishika">
+  <a href="https://leetcode.com/dhanukarishika](https://leetcode.com/u/dhanukarishika_/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=dhanukarishika&style=for-the-badge&color=7F5AF0" />
