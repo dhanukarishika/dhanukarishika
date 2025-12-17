@@ -10,7 +10,7 @@
 
 <!-- CONNECT + VISITOR COUNTER -->
 <p align="center">
-  <a href="mailto:inhvdhanukarishika@gmail.com">
+  <a href="mailto:dhanukarishika@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/dhanukarishika/">
