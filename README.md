@@ -17,10 +17,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
 <!-- ─────────────────────────── ABOUT ─────────────────────────── -->
 
 <table align="center" width="94%">
@@ -46,15 +42,9 @@ I build at the intersection of machine learning and software engineering — not
 
 <br/>
 
-<!-- ─────────────────────────── STRENGTHS ─────────────────────────── -->
-
 <div align="center">
 
 ## Core Strengths
-
-</div>
-
-<div align="center">
 
 | Problem Decomposition | System Design | ML Engineering |
 |:---:|:---:|:---:|
@@ -68,12 +58,6 @@ I build at the intersection of machine learning and software engineering — not
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ─────────────────────────── FOCUS ─────────────────────────── -->
-
 <div align="center">
 
 ## Current Focus
@@ -84,23 +68,20 @@ I build at the intersection of machine learning and software engineering — not
 01  Engineering ML systems with a production mindset — model optimization,
     experiment tracking, and deployment pipelines built for reliability.
 
-02  Designing full-stack applications where the architecture decisions matter
+02  Designing full-stack applications where architecture decisions matter
     as much as the feature set — scalable APIs, clean state, real observability.
 
 03  Deepening cloud fluency on AWS and OCI — moving from usage to ownership
     of infrastructure design and cost-conscious architecture.
 
 04  Mastering advanced DSA and system design with a focus on
-    problem-solving depth, not just coverage.
+    problem-solving depth, not just coverage — active on LeetCode contests.
 ```
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
 <!-- ─────────────────────────── PROJECTS ─────────────────────────── -->
+<!-- NOTE: repo links below are placeholders (#) until exact repo names are confirmed. -->
 
 <div align="center">
 
@@ -124,7 +105,7 @@ Real-world data rarely arrives clean. This end-to-end pipeline handles ingestion
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/View_Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/dhanukarishika)
+[![View Repo](https://img.shields.io/badge/View_Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=c084fc)](#)
 
 </td>
 
@@ -141,7 +122,7 @@ Most web apps break at the seams between frontend and backend. This project trea
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/View_Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/dhanukarishika)
+[![View Repo](https://img.shields.io/badge/View_Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=c084fc)](#)
 
 </td>
 </tr>
@@ -161,7 +142,7 @@ A desktop application built around the user, not the framework. Architected with
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/View_Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/dhanukarishika)
+[![View Repo](https://img.shields.io/badge/View_Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=c084fc)](#)
 
 </td>
 
@@ -177,18 +158,14 @@ Raw data answers no questions on its own. This tool transforms structured datase
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/View_Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/dhanukarishika)
+[![View Repo](https://img.shields.io/badge/View_Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=c084fc)](#)
 
 </td>
 </tr>
 
 </table>
 
-> Replace placeholder repo links with your actual repository names for live stat cards.
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+> ⚠️ Repo links above are placeholders (`#`) — swap in your real repository URLs. Send me the exact repo names for projects like the Java Quiz Leaderboard System or the Tredence HR Workflow Designer prototype and I'll slot in accurate, specific descriptions with working links.
 
 <br/>
 
@@ -238,10 +215,6 @@ Raw data answers no questions on its own. This tool transforms structured datase
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
 <!-- ─────────────────────────── ANALYTICS ─────────────────────────── -->
 
 <div align="center">
@@ -250,69 +223,38 @@ Raw data answers no questions on its own. This tool transforms structured datase
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dhanukarishika&theme=midnight-purple&hide_border=true&background=0d0d18&ring=7c3aed&fire=c084fc&currStreakLabel=a5b4fc&sideLabels=a5b4fc&currStreakNum=c084fc&sideNums=818cf8&dates=6b7280" height="175"/>
+<img src="https://streak-stats.demolab.com?user=dhanukarishika&theme=midnight-purple&hide_border=true&background=0d0d18" alt="GitHub Streak Stats" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhanukarishika&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d18&title_color=c084fc&icon_color=818cf8&text_color=a5b4fc&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhanukarishika&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d18&title_color=c084fc&icon_color=818cf8&text_color=a5b4fc&border_radius=10" alt="GitHub Stats" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukarishika&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d18&title_color=c084fc&text_color=a5b4fc&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukarishika&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d18&title_color=c084fc&text_color=a5b4fc&border_radius=10" alt="Top Languages" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhanukarishika&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dhanukarishika&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanukarishika&theme=tokyo-night&hide_border=true&bg_color=0d0d18&color=c084fc&line=7c3aed&point=a5b4fc&area=true&area_color=7c3aed" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanukarishika&theme=tokyo-night&hide_border=true&bg_color=0d0d18&color=c084fc&line=7c3aed&point=a5b4fc&area=true&area_color=7c3aed" alt="Contribution Activity Graph" width="100%"/>
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ─────────────────────────── DSA ─────────────────────────── -->
-
-<div align="center">
-
-## Algorithmic Practice
-
-```
-  Data Structures      ████████████████████  Proficient
-  Algorithms           ███████████████████░  Proficient
-  Dynamic Programming  █████████████████░░░  Advancing
-  Graph Theory         ██████████████░░░░░░  Advancing
-  System Design        ████████████░░░░░░░░  In Progress
-```
-
-[![LeetCode](https://img.shields.io/badge/LeetCode_Profile-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=f59e0b)](https://leetcode.com/u/dhanukarishika_/)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <!-- ─────────────────────────── SNAKE ─────────────────────────── -->
+<!-- Requires .github/workflows/snake.yml to be running in this repo — see setup notes. -->
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanukarishika/dhanukarishika/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanukarishika/dhanukarishika/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution grid snake" src="https://raw.githubusercontent.com/dhanukarishika/dhanukarishika/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/dhanukarishika/dhanukarishika/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -324,10 +266,6 @@ Raw data answers no questions on its own. This tool transforms structured datase
 
 > *"The best systems are not the ones that handle the happy path elegantly — they're the ones that fail gracefully."*
 
-</div>
-
-<div align="center">
-
 | | |
 |:---:|:---|
 | **Clarity over cleverness** | Code is read far more than it is written. Optimize for the reader. |
@@ -336,28 +274,6 @@ Raw data answers no questions on its own. This tool transforms structured datase
 | **Depth over breadth** | Real competence comes from understanding why something works, not just that it does. |
 
 </div>
-
-<br/>
-
-<!-- ─────────────────────────── PROFILE CARD ─────────────────────────── -->
-
-<div align="center">
-
-```javascript
-const rishika = {
-  education  : "B.Tech CSE · SRMIST",
-  domains    : ["ML Engineering", "Full-Stack Development", "Cloud Infrastructure"],
-  interests  : ["System Design", "MLOps", "Distributed Systems"],
-  available  : true,
-  contact    : "dhanukarishika@gmail.com"
-};
-```
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -377,4 +293,4 @@ const rishika = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:302b63,50:0f0c29,100:0d0d0d"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:302b63,50:0f0c29,100:0d0d0d" width="100%"/>
