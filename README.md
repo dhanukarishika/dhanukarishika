@@ -135,8 +135,8 @@ Most web apps break at the seams between frontend and backend. This project trea
 
 A desktop application built around the user, not the framework. Architected with separation of concerns across UI, business logic, and data layers — making it maintainable long after the first release.
 
-![Python](https://img.shields.io/badge/Python-0d0d18?style=flat-square\&logo=python\&logoColor=c084fc)
 ![Java](https://img.shields.io/badge/Java-0d0d18?style=flat-square\&logo=openjdk\&logoColor=f97316)
+![Python](https://img.shields.io/badge/Python-0d0d18?style=flat-square\&logo=python\&logoColor=c084fc)
 ![Git](https://img.shields.io/badge/Git-0d0d18?style=flat-square\&logo=git\&logoColor=f97316)
 
 <br/>
@@ -212,7 +212,7 @@ Raw data answers no questions on its own. This tool transforms structured datase
 
 <br/>
 
-<!-- ─────────────────────────── ANALYTICS ─────────────────────────── -->
+<!-- ─────────────────────────── GITHUB ACTIVITY ─────────────────────────── -->
 
 <div align="center">
 
@@ -220,24 +220,25 @@ Raw data answers no questions on its own. This tool transforms structured datase
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=dhanukarishika&theme=midnight-purple&hide_border=true&background=0d0d18" alt="GitHub Streak Stats" height="175"/>
+<table>
+<tr>
+<td>
+
+<img src="./profile/stats.svg" alt="GitHub Stats" />
+
+</td>
+<td>
+
+<img src="./profile/top-langs.svg" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhanukarishika&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d18&title_color=c084fc&icon_color=818cf8&text_color=a5b4fc&border_radius=10" alt="GitHub Stats" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukarishika&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d18&title_color=c084fc&text_color=a5b4fc&border_radius=10" alt="Top Languages" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhanukarishika&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=dhanukarishika&bg_color=0d0d18&color=c084fc&line=7c3aed&point=a5b4fc&area_color=7c3aed&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=dhanukarishika&days=31&bg_color=0d0d18&color=c084fc&title_color=c084fc&line=7c3aed&point=a5b4fc&area=true&area_color=302b63&hide_border=true&radius=10"
 alt="GitHub Contribution Activity Graph"
 width="100%"
 />
@@ -246,7 +247,7 @@ width="100%"
 
 <br/>
 
-<!-- ─────────────────────────── SNAKE ─────────────────────────── -->
+<!-- ─────────────────────────── CONTRIBUTION SNAKE ─────────────────────────── -->
 
 <div align="center">
 
