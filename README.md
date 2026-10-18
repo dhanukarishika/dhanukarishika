@@ -10,9 +10,9 @@
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
-<img src="./assets/girl.svg" alt="Illustration of a girl holding a laptop with a heart on it" align="right" width="230" />
+<img src="./assets/student.svg" alt="Illustration of a university student holding books" align="right" width="230" />
 
-## ✿ hi, I'm Rishika
+## ✦ Hi, I'm Rishika
 
 I'm a final-year CSE student at SRMIST (graduating 2027) who likes turning ambiguous problems into clean, testable code. My work so far spans a Java desktop system backed by Oracle, a distributed job scheduler, an LLM-assisted analytics agent, and an explainable machine-learning research project (CropSight).
 
@@ -26,19 +26,19 @@ I care about readable code, honest evaluation, and understanding how systems beh
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
-## ♡ what I'm up to
+## ✦ What I'm up to
 
 <p align="center">
   <img src="./assets/focus.svg" alt="Learning: DSA and system design, Java and clean OOP, cloud and DevOps basics. Exploring: explainable ML, backend and APIs, databases. Open to: SDE, ML engineer, full-stack and research roles." width="100%" />
 </p>
 
-## ✧ a peek at my terminal
+## ✦ Terminal
 
 <p align="center">
   <img src="./assets/terminal.svg" alt="Animated terminal: Rishika Dhanuka, CSE at SRMIST, class of 2027. Focus: DSA, system design, Java, explainable ML, backend, cloud basics. Research: CropSight, ICONDEEPCOM 2026. Open to SDE, ML, full-stack and research engineering roles." width="100%" />
 </p>
 
-## ☁ tools I use
+## ✦ Tools
 
 <p align="center">
   <img src="./assets/stack.svg" alt="Java, Python, C, C++, JavaScript, TypeScript, React, Node.js, Spring Boot, scikit-learn, Pandas, NumPy, TensorFlow, SHAP, MySQL, Oracle XE, PostgreSQL, Redis, Docker, Git, AWS, Oracle Cloud" width="100%" />
@@ -48,7 +48,7 @@ I care about readable code, honest evaluation, and understanding how systems beh
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
-## ♡ how I like to build
+## ✦ How I build
 
 - **Clarity over cleverness:** code is read far more often than it is written.
 - **Iteration over perfection:** a shipped system that improves beats a perfect design that never exists.
