@@ -10,7 +10,7 @@
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
-<img src="./assets/student.svg" alt="Illustration of a university student holding books" align="right" width="230" />
+<img src="./assets/student.svg" alt="Pixel-art illustration of a girl with long dark hair and round glasses" align="right" width="230" />
 
 ## ✦ Hi, I'm Rishika
 
