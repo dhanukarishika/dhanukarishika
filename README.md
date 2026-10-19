@@ -10,7 +10,7 @@
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
-<img src="./assets/student.svg" alt="Pixel-art illustration of a girl with long dark hair and round glasses" align="right" width="230" />
+<img src="./assets/desk.svg" alt="Illustration of a laptop showing Java code on a pink desk with books, earphones, glasses and a notebook" align="right" width="260" />
 
 ## ✦ Hi, I'm Rishika
 
