@@ -10,8 +10,6 @@
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
-<img src="./assets/desk.svg" alt="Illustration of a laptop showing Java code on a pink desk with books, earphones, glasses and a notebook" align="right" width="260" />
-
 ## ✦ Hi, I'm Rishika
 
 I'm a final-year CSE student at SRMIST (graduating 2027) who likes turning ambiguous problems into clean, testable code. My work so far spans a Java desktop system backed by Oracle, a distributed job scheduler, an LLM-assisted analytics agent, and an explainable machine-learning research project (CropSight).
@@ -22,7 +20,9 @@ I care about readable code, honest evaluation, and understanding how systems beh
 
 **Open to:** SDE, ML Engineer, Full-Stack and Research Engineering roles
 
-<br clear="right" />
+<p align="center">
+  <img src="./assets/desk.svg" alt="Illustration of a lavender desk: a laptop showing Java code, stacked Java, DSA and Web Dev books, headphones, a coffee mug, glasses and a notebook" width="100%" />
+</p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
